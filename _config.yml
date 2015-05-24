@@ -2,7 +2,7 @@ title:            NEWS-FIRST.COM
 description:      News Here and Now
 logo:             site-logo.png
 disqus_shortname: 
-search:           false
+search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://104.236.127.194:80
 #cdn:			  http://cdn.localhost:4000
@@ -43,11 +43,15 @@ links:
     url:   
   - title: 
     url: 
+  - title: 
+    url: 
   - title: Main
     url: /
     external: false
   - title: About
     url: /about
+  - title: 
+    url:   
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
