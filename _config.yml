@@ -14,7 +14,7 @@ owner:
   #email:			you@email.com
   signoff_text:		Till next time
   signoff_link:		/about
-  signature_image:	signature.png
+  #signature_image:	signature.png
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   #twitter:        
