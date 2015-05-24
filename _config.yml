@@ -39,19 +39,19 @@ owner:
 # For external links add external: true
 links:
   
-  - title: 
-    url:   
-  - title: 
-    url: 
-  - title: 
-    url: 
+  - title: Coming Soon
+    url:   \#
+  - title: Coming Soon
+    url: \#
+  - title: Coming Soon
+    url: \#
   - title: Main
     url: /
     external: false
   - title: About
     url: /about
-  - title: 
-    url:   
+  - title:Coming Soon 
+    url: \#  
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
