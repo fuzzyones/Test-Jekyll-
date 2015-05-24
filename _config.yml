@@ -39,18 +39,18 @@ owner:
 # For external links add external: true
 links:
   
-  - title: Coming Soon
+  - title: 
     url:   
-  - title: Coming Soon
+  - title:
     url: 
-  - title: Coming Soon
+  - title: 
     url: 
   - title: Main
     url: /
     external: false
   - title: About
     url: /about
-  - title:Coming Soon 
+  - title:
     url:   
 
 
