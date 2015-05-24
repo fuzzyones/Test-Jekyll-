@@ -39,10 +39,7 @@ owner:
 # For external links add external: true
 links:
   
-  - title: 
-    url: 
-  - title: 
-    url: 
+
   - title: Blog
     url: /
     external: false
