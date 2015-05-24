@@ -40,18 +40,18 @@ owner:
 links:
   
   - title: Coming Soon
-    url:   \#
+    url:   
   - title: Coming Soon
-    url: \#
+    url: 
   - title: Coming Soon
-    url: \#
+    url: 
   - title: Main
     url: /
     external: false
   - title: About
     url: /about
   - title:Coming Soon 
-    url: \#  
+    url:   
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
