@@ -8,6 +8,6 @@ tags: [News, Now]
 modified: 2015-5-04
 ---
 
->Welcome here this site will Hold all thing Apple and News related 
+>Welcome to news-first.com this site will contain various news articles related to technology news and become the leader in fast news. 
 
-This website was built with Jekyll and personifies our view that *human perspectives should be allowed to be shared without any barriers and restrictions.
+This website was created to personifies our view that *human perspectives should be allowed to be shared without any barriers and restrictions.
