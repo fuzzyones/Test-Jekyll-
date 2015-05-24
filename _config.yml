@@ -1,39 +1,39 @@
-title:            Site Title
-description:      Describe your website here.
+title:            New First
+description:      Apple News First
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://0.0.0.0:80
 #cdn:			  http://cdn.localhost:4000
 
 # Owner/author information
 owner:
-  name:				Your Name
+  name:				Jason Ranger
   avatar:			bio-photo.jpg
-  email:			you@email.com
+  #email:			you@email.com
   signoff_text:		Till next time
   signoff_link:		/about
   signature_image:	signature.png
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  hmfaysalsocial: hmfaysal
+  #twitter:        
+  #facebook:       
+  #github:         
+  #stackexchange:  
+  #linkedin:       
+  #instagram:      
+  #flickr:         
+  #tumblr:         
+  #hmfaysalsocial: hmfaysal
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  #google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+#google_analytics:   
+#google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+#bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
